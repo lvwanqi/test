@@ -1,4 +1,4 @@
-#include <ntddk.h>qqq
+#include <ntddk.h>
 
 
 void DriverUnload(PDRIVER_OBJECT driver)
@@ -7,12 +7,12 @@ void DriverUnload(PDRIVER_OBJECT driver)
 }333333333333333
 
 
-NTSTATUS 33333333333333
+NTSTATUS 111111111
   DriverEntry( 
     IN PDRIVER_OBJECT  DriverObject, 
     IN PUNICODE_STRING  RegistryPath 
     )
-{33333333333333333
+{1111111111
 #if DBG
        _asm int 3
 #endif

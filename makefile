@@ -1,5 +1,5 @@
 !IF 0
-mofify 2
+
 Copyright (C) Microsoft Corporation, 1999 - 2002
 
 Module Name:

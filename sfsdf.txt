@@ -9,5 +9,3 @@ new function3
 
 commit with first.c file
 lala
-
-it is error code.

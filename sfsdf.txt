@@ -8,3 +8,5 @@ new function2
 new function3
 
 commit with first.c file
+
+test for rollback commit

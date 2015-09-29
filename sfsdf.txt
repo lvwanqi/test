@@ -6,7 +6,5 @@ new function
 new function2
 
 new function3
-888
 
-333
 

@@ -1,14 +1,13 @@
 sdfsdfsdfett 
 
-222
+
 new function
 444
 new function2
-666
+
 new function3
 888
-111
-222
+
 333
 commit with first.c file
 lala
